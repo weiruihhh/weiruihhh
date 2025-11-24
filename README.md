@@ -37,7 +37,7 @@
 <!-- Center the quote -->
 <p align="center">
   "Talk is cheap. Show me the code."  
-  — **Linus Torvalds**
+  — Linus Torvalds
 </p>
 
 <!--
