@@ -1,12 +1,11 @@
 # 👋 Hi, I'm **weiruihhh**
 
-### Aspiring Full-Stack Developer
+### A person who is very fond of paying attention to details.
 
 ## About Me 🚀
-- 💻 Currently learning **Artificial Intelligence** and **Machine Learning**.
-- 🔧 Passionate about **C/C++/Rust programming**.
-- 🎯 Goal: Becoming a **Linux expert** and **full-stack developer**.
-- 🌟 Inspired by **Linus Torvalds**.
+- 💻 Currently learning **Large Language Model** and **AI Agent**.
+- 🔧 Passionate about **system-level programming** and **hardware-software co-optimization**.
+- 🎯 Familiar with **embedded systems** and **the Internet of Things**
 - 💬 Love exploring new technologies and contributing to open-source.
 - 🌍 Hoping for world peace and technological advancement.
 
