@@ -20,11 +20,6 @@
 ![Tech Stack](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Rust%20%7C%20Python-blue?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Linux%20%7C%20Docker%20%7C%20VS%20Code-lightgrey?style=flat-square)
 
-### Contact:
-- 📧 Email: [weiruihhh@domain.com](mailto:weiruihhh@domain.com)
-- 🔗 GitHub: [github.com/weiruihhh](https://github.com/weiruihhh)
-- 🌐 LinkedIn: [linkedin.com/in/weiruihhh](https://linkedin.com/in/weiruihhh)
-
 ## My Favorite Repositories 💡
 ### Check out some of my most used repositories:
 
@@ -60,4 +55,8 @@ Here are some ideas to get you started:
 
 ## GitHub Statistics 📊
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiruihhh&show_icons=true&count_private=true&hide=prs&theme=radical)
+### Contact:
+- 📧 Email: [weiruihhh@domain.com](mailto:weiruihhh@domain.com)
+- 🔗 GitHub: [github.com/weiruihhh](https://github.com/weiruihhh)
+- 🌐 LinkedIn: [linkedin.com/in/weiruihhh](https://linkedin.com/in/weiruihhh)
 -->
