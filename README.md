@@ -36,7 +36,6 @@
 
 <!-- Center the quote -->
 <p align="center">
-  <b>Quote 💬</b><br>
   "Talk is cheap. Show me the code."  
   — **Linus Torvalds**
 </p>
