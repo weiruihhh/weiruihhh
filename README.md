@@ -31,16 +31,15 @@
 [![cs336_note_and_hw](https://github-readme-stats.vercel.app/api/pin/?username=weiruihhh&repo=cs336_note_and_hw)](https://github.com/weiruihhh/cs336_note_and_hw)
 [![LLM_from_0](https://github-readme-stats.vercel.app/api/pin/?username=weiruihhh&repo=LLM_from_0)](https://github.com/weiruihhh/LLM_from_0)
 
-## GitHub Trophies 🏆
-![Trophy](https://github-profile-trophy.vercel.app/?username=weiruihhh&theme=radical)
-
 ## GitHub Contribution Graph 📈
 ![My Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=weiruihhh&theme=radical)
 
-## Quote 💬
-> "Talk is cheap. Show me the code."  
-> — **Linus Torvalds**
-
+<!-- Center the quote -->
+<p align="center">
+  <b>Quote 💬</b><br>
+  "Talk is cheap. Show me the code."  
+  — **Linus Torvalds**
+</p>
 
 <!--
 **weiruihhh/weiruihhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
