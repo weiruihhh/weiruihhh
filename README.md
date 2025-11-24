@@ -2,7 +2,7 @@
 ![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=weiruihhh&show_icons=true&count_private=true&hide=prs&theme=radical&locale=zh-tw)
 
 ## 我的语言使用情况
-![我的语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=weiruihhh&layout=compact&langs_count=8&theme=radical&locale=zh-tw)
+![我的语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=weiruihhh&layout=compact&langs_count=8&theme=radical&locale=zh-cn)
 <!--
 **weiruihhh/weiruihhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
