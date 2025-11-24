@@ -27,7 +27,7 @@
 [![LLM_from_0](https://github-readme-stats.vercel.app/api/pin/?username=weiruihhh&repo=LLM_from_0)](https://github.com/weiruihhh/LLM_from_0)
 
 ## GitHub Contribution Graph 📈
-![My Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=weiruihhh&theme=radical)
+![My Contribution Graph](https://github-readme-stats.vercel.app/api/pin/?username=weiruihhh&repo=github-readme-stats)
 
 <!-- Center the quote -->
 <p align="center">
