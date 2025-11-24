@@ -1,22 +1,47 @@
-# Welcome to my GitHub profile!
+# 👋 Hi, I'm **weiruihhh**
 
-I am **weiruihhh**, a developer who loves exploring technology. Here are some of my stats on GitHub:
+### Aspiring Full-Stack Developer
 
-## My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiruihhh&show_icons=true&count_private=true&hide=prs&theme=radical)
+## About Me 🚀
+- 💻 Currently learning **Artificial Intelligence** and **Machine Learning**.
+- 🔧 Passionate about **C/C++/Rust programming**.
+- 🎯 Goal: Becoming a **Linux expert** and **full-stack developer**.
+- 🌟 Inspired by **Linus Torvalds**.
+- 💬 Love exploring new technologies and contributing to open-source.
+- 🌍 Hoping for world peace and technological advancement.
 
 ## My Most Used Languages
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiruihhh&layout=compact&langs_count=8&theme=radical)
 
-## My Favorite Repositories
-### Here are a few of my most used repositories:
+## Tech Stack & Contact 💻📞
+### Languages & Tools:
+![Tech Stack](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Rust%20%7C%20Python-blue?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Linux%20%7C%20Docker%20%7C%20VS%20Code-lightgrey?style=flat-square)
+
+### Contact:
+- 📧 Email: [weiruihhh@domain.com](mailto:weiruihhh@domain.com)
+- 🔗 GitHub: [github.com/weiruihhh](https://github.com/weiruihhh)
+- 🌐 LinkedIn: [linkedin.com/in/weiruihhh](https://linkedin.com/in/weiruihhh)
+
+## GitHub Statistics 📊
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiruihhh&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## My Favorite Repositories 💡
+### Check out some of my most used repositories:
 
 [![cs336_note_and_hw](https://github-readme-stats.vercel.app/api/pin/?username=weiruihhh&repo=cs336_note_and_hw)](https://github.com/weiruihhh/cs336_note_and_hw)
 [![LLM_from_0](https://github-readme-stats.vercel.app/api/pin/?username=weiruihhh&repo=LLM_from_0)](https://github.com/weiruihhh/LLM_from_0)
 
-## Other
-- You can reach out to me on GitHub.
-- Follow me for updates on my interesting projects.
+## GitHub Trophies 🏆
+![Trophy](https://github-profile-trophy.vercel.app/?username=weiruihhh&theme=radical)
+
+## GitHub Contribution Graph 📈
+![My Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=weiruihhh&theme=radical)
+
+## Quote 💬
+> "Talk is cheap. Show me the code."  
+> — **Linus Torvalds**
+
 
 <!--
 **weiruihhh/weiruihhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
