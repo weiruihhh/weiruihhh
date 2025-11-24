@@ -11,16 +11,10 @@
 
 
 ## My Tech Stats 💻
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; margin-right: 10px;">
-    ### My Most Used Languages
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiruihhh&layout=compact&langs_count=8&theme=radical" />
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    ### GitHub Statistics 📊
-    <img src="https://github-readme-stats.vercel.app/api?username=weiruihhh&show_icons=true&count_private=true&hide=prs&theme=radical" />
-  </div>
-</div>
+| My Most Used Languages | GitHub Statistics 📊 |
+|------------------------|----------------------|
+| ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiruihhh&layout=compact&langs_count=8&theme=radical) | ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiruihhh&show_icons=true&count_private=true&hide=prs&theme=radical) |
+
 
 ### Languages & Tools:
 ![Tech Stack](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Rust%20%7C%20Python-blue?style=flat-square)
