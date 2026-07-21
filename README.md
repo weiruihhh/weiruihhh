@@ -3,7 +3,8 @@
 ### A person who is very fond of paying attention to details.
 
 ## About Me 🚀
-- 💻 Currently learning **Large Language Model** and **AI Agent**.
+- 🚀 **Actively looking for internship opportunities** in AI Infra / Agent / Post Training — always happy to chat!
+- 💻 Currently learning **AI Agent** and **AI Infra**.
 - 🔧 Passionate about **system-level programming** and **hardware-software co-optimization**.
 - 🎯 Familiar with **embedded systems** and **the Internet of Things**
 - 💬 Love exploring new technologies and contributing to open-source.
@@ -19,12 +20,14 @@
 ### Languages & Tools:
 ![Tech Stack](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Rust%20%7C%20Python-blue?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Linux%20%7C%20Docker%20%7C%20VS%20Code-lightgrey?style=flat-square)
+<!--
 
 ## My Favorite Repositories 💡
 ### Check out some of my most used repositories:
 
 [![cs336_note_and_hw](https://github-readme-stats.vercel.app/api/pin/?username=weiruihhh&repo=cs336_note_and_hw)](https://github.com/weiruihhh/cs336_note_and_hw)
 [![LLM_from_0](https://github-readme-stats.vercel.app/api/pin/?username=weiruihhh&repo=LLM_from_0)](https://github.com/weiruihhh/LLM_from_0)
+-->
 
 ## GitHub Contribution Graph 📈
 ![My Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=weiruihhh&theme=radical)
@@ -32,7 +35,6 @@
 <!-- Center the quote -->
 <p align="center">
   "Talk is cheap. Show me the code."  
-  — Linus Torvalds
 </p>
 
 <!--
