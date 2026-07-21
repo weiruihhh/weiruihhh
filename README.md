@@ -3,6 +3,7 @@
 ### A person who is very fond of paying attention to details.
 
 ## About Me 🚀
+![Status](https://img.shields.io/badge/🔍_Open_to-Internship-brightgreen?style=for-the-badge)
 - 🚀 **Actively looking for internship opportunities** in AI Infra / Agent / Post Training — always happy to chat!
 - 💻 Currently learning **AI Agent** and **AI Infra**.
 - 🔧 Passionate about **system-level programming** and **hardware-software co-optimization**.
