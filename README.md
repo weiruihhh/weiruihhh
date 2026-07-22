@@ -10,9 +10,9 @@
 - 💬 Love exploring new technologies and contributing to open-source.
 - 📖 Coming soon: open-sourcing my **AI Infra** learning notes and the next version of my **CS336** repo — stay tuned!
 
-## My Tech Stats 💻
-### Languages & Tools:
+## Languages & Tools:
 <!--
+## My Tech Stats 💻
 - 🔧 Passionate about **system-level programming** and **hardware-software co-optimization**.
 ![Tech Stack](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Rust%20%7C%20Python-blue?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Linux%20%7C%20Docker%20%7C%20VS%20Code-lightgrey?style=flat-square)
@@ -44,10 +44,17 @@
 ## GitHub Contribution Graph 📈
 ![My Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=weiruihhh&theme=radical)
 
-<!-- Center the quote -->
 <p align="center">
-  "Talk is cheap. Show me the code."  
+  <img src="https://github-readme-stats.vercel.app/api?username=weiruihhh&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiruihhh&layout=compact&theme=radical" width="48%" />
 </p>
+
+<!-- Center the quote -->
+<!--
+  <p align="center">
+    "Talk is cheap. Show me the code."  
+  </p>
+-->
 
 <!--
 **weiruihhh/weiruihhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
