@@ -40,9 +40,10 @@
 [![cs336_note_and_hw](https://github-readme-stats.vercel.app/api/pin/?username=weiruihhh&repo=cs336_note_and_hw)](https://github.com/weiruihhh/cs336_note_and_hw)
 [![LLM_from_0](https://github-readme-stats.vercel.app/api/pin/?username=weiruihhh&repo=LLM_from_0)](https://github.com/weiruihhh/LLM_from_0)
 -->
-
+<!--
 ## GitHub Contribution Graph 📈
 ![My Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=weiruihhh&theme=radical)
+-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=weiruihhh&color=brightgreen&style=for-the-badge)
 
