@@ -44,10 +44,12 @@
 ## GitHub Contribution Graph 📈
 ![My Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=weiruihhh&theme=radical)
 
-<p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=weiruihhh&color=brightgreen&style=for-the-badge)
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weiruihhh&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiruihhh&layout=compact&theme=radical" width="48%" />
-</p>
+</p> -->
 
 <!-- Center the quote -->
 <!--
